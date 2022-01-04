@@ -11,16 +11,16 @@ Auf jene Tabelle wird im Code '1.0-fbu-visualize-data' zugegriffen.
 Bei der Ausführung des zweiten Codes werden Plots erstellt und in den jeweiligen Ordnern abgespeichert.  
 
 # Ordnerstruktur
-+-- data                <-  Used Data
--  +-- processed       <-  Verarbeitete Daten zur Erstellung der plots
--   +-- raw             <-  Originale Rohdaten
++-- data                     <-  Used Data
+-  +-- processed             <-  Verarbeitete Daten zur Erstellung der plots
+-   +-- raw                  <-  Originale Rohdaten
   
 +-- images
--   +-- HTML            <-  Plots der Grafiken im Dateiformat .html
--   +-- PDF             <-  Plots der Grafiken im Dateiformat .pdf
--   +-- SVG             <-  Plots der Grafiken im Dateiformat .svg
+-   +-- HTML                 <-  Plots der Grafiken im Dateiformat .html
+-   +-- PDF                  <-  Plots der Grafiken im Dateiformat .pdf
+-   +-- SVG                  <-  Plots der Grafiken im Dateiformat .svg  
   
-+-- src                 <-  Code zur Erstellung der Plots im .ipynb Format
++-- src                      <-  Code zur Erstellung der Plots im .ipynb Format
 
 +-- .gitignore
 
