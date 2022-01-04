@@ -22,18 +22,10 @@ Aus Stromverbrauchsdaten ein Gebäude wählen und die Daten sinnvoll vorverarbei
 
 +-- requirements.txt    <- The requirements file for reproducing the analysis environment
 
-
-├── data                <-  Used Data
-- ├── processed       <-  Verarbeitete Daten zur Erstellung der plots
-- └── raw             <-  Originale Rohdaten
-└── images
-- └── HTML            <-  Plots der Grafiken im Dateiformat .html
-- └── PDF             <-  Plots der Grafiken im Dateiformat .pdf
-- └── SVG             <-  Plots der Grafiken im Dateiformat .svg
-├── src                 <-  Code zur Erstellung der Plots im .ipynb Format 
-├── .gitignore
-├── READ.ME    
-├── requirements.txt    <- The requirements file for reproducing the analysis environment
+# Anleitung
+Zunächst im Code '1.0-fbu-load-initial-data' das gewünschte Gebäude auswählen. Eine Tabelle des gewünschten Gebäudes wird erstellt. 
+Auf jene wird im Code '1.0-fbu-visualize-data' zugegriffen. 
+Bei der Ausführung des zweiten Codes werden Plots erstellt und in den jeweiligen Ordnern abgespeichert.  
 
 ## Author 
 Felix Burr
