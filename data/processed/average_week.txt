@@ -1,4 +1,4 @@
-Weekday	School.1
+Weekday	power consumption
 0	8.575816306089743
 1	8.845042067307691
 2	9.194471860824486
