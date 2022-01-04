@@ -3,11 +3,11 @@ Aus Stromverbrauchsdaten ein Gebäude wählen und die Daten sinnvoll vorverarbei
 - Beispielwoche Sommer und Winter
 - Durchschnittswoche
 - Jahresdauerlinie
-- 
+
 # Anleitung
 Zunächst im Code '1.0-fbu-load-initial-data' das gewünschte Gebäude auswählen. Eine Tabelle des gewünschten Gebäudes wird erstellt. 
 
-Auf jene wird im Code '1.0-fbu-visualize-data' zugegriffen. 
+Auf jene Tabelle wird im Code '1.0-fbu-visualize-data' zugegriffen. 
 Bei der Ausführung des zweiten Codes werden Plots erstellt und in den jeweiligen Ordnern abgespeichert.  
 
 # Ordnerstruktur
