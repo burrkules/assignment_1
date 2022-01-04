@@ -6,8 +6,8 @@ Aus Stromverbrauchsdaten ein Gebäude wählen und die Daten sinnvoll vorverarbei
 
 # Ordnerstruktur
 ├── data                <-  Used Data
-│   ├── processed       <-  Verarbeitete Daten zur Erstellung der plots
-│   └── raw             <-  Originale Rohdaten
+    ├── processed       <-  Verarbeitete Daten zur Erstellung der plots
+    └── raw             <-  Originale Rohdaten
 └── images              
     └── HTML            <-  Plots der Grafiken im Dateiformat .html
     └── PDF             <-  Plots der Grafiken im Dateiformat .pdf
