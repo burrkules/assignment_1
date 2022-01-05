@@ -12,11 +12,12 @@ Bei der Ausführung des zweiten Codes werden Plots erstellt und in den jeweilige
 
 # Ordnerstruktur
 
++-- Datenbankstruktur        <-  Zusatzaufgabe, Vorschlag einer Datenbankstruktur (nicht relevant für Code)
+
 +-- data                     <-  Used Data
 -  +-- processed             <-  Verarbeitete Daten zur Erstellung der plots
 -   +-- raw                  <-  Originale Rohdaten
   
-+-- Datenbankstruktur        <-  Zusatzaufgabe, Vorschlag einer Datenbankstruktur (nicht relevant für Code)
 
 +-- images
 -   +-- HTML                 <-  Plots der Grafiken im Dateiformat .html
