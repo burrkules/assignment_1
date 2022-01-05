@@ -2,6 +2,7 @@
 Aus Stromverbrauchsdaten ein Gebäude wählen und die Daten sinnvoll vorverarbeiten und folgende Grafiken erzeugen.
 - Beispielwoche Sommer und Winter
 - Durchschnittswoche
+- Durchschnittswoche für gewissen Zeitraum (Zusatz)
 - Jahresdauerlinie
 
 # Anleitung
