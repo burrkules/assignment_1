@@ -1,9 +1,10 @@
 # Assignment 
 Aus Stromverbrauchsdaten ein Gebäude wählen und die Daten sinnvoll vorverarbeiten und folgende Grafiken erzeugen.
 - Beispielwoche Sommer und Winter
-- Durchschnittswoche
-- Durchschnittswoche für gewissen Zeitraum (Zusatz)
+- Durchschnittswoche gesamt
+- Durchschnittswoche über einen Zeitraum (Zusatzaufgabe)
 - Jahresdauerlinie
+- Zusatzaufgabe: Nutzung eines GIT-Repositories
 
 # Anleitung
 Zunächst im Code '1.0-fbu-load-initial-data' das gewünschte Gebäude auswählen. Eine Tabelle des gewünschten Gebäudes wird erstellt. 
