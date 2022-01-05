@@ -11,10 +11,13 @@ Auf jene Tabelle wird im Code '1.0-fbu-visualize-data' zugegriffen.
 Bei der Ausführung des zweiten Codes werden Plots erstellt und in den jeweiligen Ordnern abgespeichert.  
 
 # Ordnerstruktur
+
 +-- data                     <-  Used Data
 -  +-- processed             <-  Verarbeitete Daten zur Erstellung der plots
 -   +-- raw                  <-  Originale Rohdaten
   
++-- Datenbankstruktur        <-  Zusatzaufgabe, Vorschlag einer Datenbankstruktur (nicht relevant für Code)
+
 +-- images
 -   +-- HTML                 <-  Plots der Grafiken im Dateiformat .html
 -   +-- PDF                  <-  Plots der Grafiken im Dateiformat .pdf
